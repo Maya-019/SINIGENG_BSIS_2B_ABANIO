@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - May Abaño</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .resume-header {
+            display: flex;
+            align-items: center;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .resume-header img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            margin-right: 20px;
+        }
+        .resume-header h1 {
+            margin: 0;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-left: 5px solid #333;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="resume-header">
+        <img src="https://assets.onecompiler.app/42vjmgg9u/42vjmgknd/Picsart_24-10-19_17-49-03-389.jpg " alt="May Abaño's Photo">
+        <div>
+            <h1>May Abaño</h1>
+            <p>La Medalla Polangui Albay</p>
+            <p>mayabanio02@gmail.com</p>
+            <p>09511118074</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Objective</h2>
+        <p>Motivated and detail-oriented Information Systems graduate with strong technical skills in data management, systems analysis, and IT support. Seeking an entry-level position to leverage my knowledge of database systems, cybersecurity, and project management to support business operations and contribute to the efficiency and innovation of a forward-thinking organization.</p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <p><strong>Tertiary Education:</strong> Bachelor of Information Systems<br>
+            Bicol University Polangui, Polangui Albay (2022-2027)</p>
+        <p><strong>Secondary Education:</strong> Polangui General Comprehensive High School<br>
+            Polangui Albay (2021-2023)</p>
+        <p>La Medalla High School, Polangui Albay (2017-2021)</p>
+        <p><strong>Elementary Education:</strong> La Medalla Elementary School<br>
+            Polangui Albay (2011-2017)</p>
+    </div>
+
+    <div class="section">
+        <h2>Achievements</h2>
+        <ul>
+            <li>2016-2017 achievers</li>
+            <li>2017-2018 achievers</li>
+            <li>2018-2019 achievers</li>
+            <li>2019-2020 achievers</li>
+            <li>2021-2022 achievers</li>
+            <li>2022-2023 achievers</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>Leadership</li>
+            <li>Programming</li>
+            <li>Networking</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Experience</h2>
+        <p><strong>Student IT Assistant</strong> - Bicol University Polangui (September 2022)</p>
+        <ul>
+            <li>Assisted university staff and students in troubleshooting software and hardware issues, ensuring minimal disruptions to academic activities.</li>
+            <li>Managed user account permissions and performed system backups to maintain data integrity.</li>
+            <li>Provided support for network connectivity, printer installations, and software updates.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>References</h2>
+        <p>Noli Ramboyong, Brgy. Captain<br>
+            Phone: 09473591568</p>
+    </div>
+
+</body>
+</html>
